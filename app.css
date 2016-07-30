@@ -4,6 +4,8 @@
     height: 825px;
     z-index: 1000;
     background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('img/final_code.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .text-wrapper {
     z-index: 1002;
